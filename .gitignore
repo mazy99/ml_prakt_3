@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+.env/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and models
+data/
+models/
+*.h5
+*.pt
+*.pkl
+*.joblib
+*.csv
+*.json
+
+# Logs
+logs/
+*.log
+
+# Other
+.DS_Store
+*.swp
